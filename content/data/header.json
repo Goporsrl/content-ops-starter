@@ -3,7 +3,7 @@
         {
             "label": "Productos",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "arrowDown",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
