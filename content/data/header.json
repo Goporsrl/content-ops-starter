@@ -17,7 +17,8 @@
                 ],
                 "borderRadius": "xx-large",
                 "borderColor": "border-dark",
-                "borderWidth": 4
+                "borderWidth": 4,
+                "borderStyle": "dotted"
             }
         },
         "type": "ImageBlock",
