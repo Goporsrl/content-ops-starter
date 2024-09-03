@@ -87,7 +87,13 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "padding": [
+                    "pt-6",
+                    "pl-6",
+                    "pb-6",
+                    "pr-6"
+                ]
             }
         },
         "url": "/images/LOGO-MADRE-NEGRO.png"
