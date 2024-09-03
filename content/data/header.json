@@ -18,7 +18,7 @@
                 "borderRadius": "none",
                 "borderColor": "border-dark",
                 "borderWidth": 0,
-                "borderStyle": "dotted"
+                "borderStyle": "none"
             }
         },
         "type": "ImageBlock",
