@@ -15,7 +15,8 @@
                     "pb-0",
                     "pr-0"
                 ],
-                "borderRadius": "xx-large"
+                "borderRadius": "xx-large",
+                "borderColor": "border-dark"
             }
         },
         "type": "ImageBlock",
