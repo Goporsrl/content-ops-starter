@@ -1,18 +1,18 @@
 {
     "primaryLinks": [
         {
-            "label": "Productos",
-            "url": "/pricing",
-            "icon": "arrowDown",
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
+            "label": "Productos",
+            "url": "/pricing",
+            "icon": "arrowDown",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
