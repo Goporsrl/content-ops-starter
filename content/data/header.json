@@ -47,17 +47,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "type": "Button",
-            "label": "Solicitar cotización",
-            "altText": "",
-            "url": "wa.me/3412166624",
-            "showIcon": true,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
