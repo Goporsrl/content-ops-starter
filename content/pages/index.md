@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Transformá tu Hogar con nuestras Soluciones en EPS de alta calidad.
-      color: text-primary
+      color: text-dark
       type: TitleBlock
       styles:
         self:
