@@ -183,7 +183,7 @@ sections:
       - url: /images/danda-2.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/maincal-logo-web.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
