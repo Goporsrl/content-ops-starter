@@ -52,7 +52,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Solicitar Cotización",
             "altText": "",
             "url": "/",
             "showIcon": false,
