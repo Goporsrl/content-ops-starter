@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/interior-habitacion-3d-diseno-muebles-clasicos.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
