@@ -17,7 +17,7 @@ sections:
       soluciones de decoración y aislamiento térmico para transformar tus
       espacios
     actions:
-      - label: Get started
+      - label: Ver Nuestros Productos
         altText: ''
         url: /
         showIcon: false
