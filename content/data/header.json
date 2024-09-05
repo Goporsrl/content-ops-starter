@@ -56,7 +56,7 @@
             "altText": "",
             "url": "wa.me/3412166624",
             "showIcon": true,
-            "icon": "send",
+            "icon": "chevronRight",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
