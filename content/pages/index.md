@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Confort Térmico
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           Mantené tu hogar fresco en verano y cálido en invierno.
         actions: []
