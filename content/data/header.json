@@ -28,7 +28,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Blog",
             "altText": "",
             "url": "/",
             "showIcon": false,
