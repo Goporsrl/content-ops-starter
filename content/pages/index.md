@@ -57,7 +57,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 76
+      opacity: 100
       url: /images/interior-habitacion-3d-diseno-muebles-clasicos.jpg
   - type: FeaturedItemsSection
     title:
