@@ -72,10 +72,8 @@ sections:
       - type: FeaturedItem
         title: Confort Térmico
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Mantené tu hogar fresco en verano y cálido en invierno.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
