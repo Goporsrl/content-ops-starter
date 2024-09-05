@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Beneficios de elegirnos
     items:
       - type: FeaturedItem
         title: Confort Térmico
