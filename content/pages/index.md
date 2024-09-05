@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 400
+          textAlign: center
     subtitle: >-
       Confort, estilo y eficiencia en un solo producto. Descubrí nuestras
       soluciones de decoración y aislamiento térmico para transformar tus
