@@ -1,27 +1,15 @@
 {
-    "logo": {
-        "url": "/images/LOGO-MADRE-BLANCO [Convertido].svg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Productos",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "arrowDown",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Proyectos",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -30,7 +18,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Sobre nosotros",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -39,58 +27,65 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "type": "Link",
+            "label": "Blog",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Contacto",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
+            "type": "Button",
+            "label": "Solicitar Cotización",
+            "altText": "",
+            "url": "wa.me/3412166624",
+            "showIcon": true,
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "logo": {
+        "type": "ImageBlock",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "padding": [
+                    "pt-0",
+                    "pl-0",
+                    "pb-0",
+                    "pr-0"
+                ],
+                "margin": [
+                    "mt-0",
+                    "ml-0",
+                    "mb-0",
+                    "mr-0"
+                ]
+            }
+        },
+        "url": "/images/LOGO-MADRE-BLANCO-[Convertido]DDDD.png"
+    }
 }
