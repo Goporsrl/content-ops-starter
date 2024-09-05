@@ -97,7 +97,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Estilo y Diseño
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Modernizá tus espacios con placas y molduras que se adaptan a
           cualquier ambiente.
