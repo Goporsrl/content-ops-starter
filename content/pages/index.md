@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Contactanos por
+      - label: Contactanos por WhatsApp
         altText: ''
         url: /
         showIcon: true
