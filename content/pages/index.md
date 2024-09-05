@@ -180,7 +180,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/dandaaa.png
+      - url: /images/danda-logo-web.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
