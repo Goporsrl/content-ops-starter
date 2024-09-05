@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Contactanos
+      - label: Contactanos por
         altText: ''
         url: /
         showIcon: true
