@@ -53,7 +53,7 @@
             "label": "Get started",
             "altText": "",
             "url": "wa.me/3412166624",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
