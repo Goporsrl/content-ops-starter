@@ -55,7 +55,7 @@ sections:
       type: BackgroundImage
       altText: altText of the image
       backgroundSize: cover
-      backgroundPosition: top
+      backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/interior-habitacion-3d-diseno-muebles-clasicos.jpg
