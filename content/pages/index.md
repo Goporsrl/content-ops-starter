@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
 
       Confort, estilo y eficiencia en un solo producto. Descubrí nuestras
