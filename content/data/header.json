@@ -50,7 +50,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Solicita cotización",
             "altText": "",
             "url": "wa.me/3412166624",
             "showIcon": true,
