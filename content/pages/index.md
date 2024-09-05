@@ -61,7 +61,7 @@ sections:
       url: /images/interior-habitacion-3d-diseno-muebles-clasicos.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Por qué Elegir Gopor
       color: text-dark
       styles:
         self:
