@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Transformá tu Hogar con Soluciones en EPS de Alta Calidad
+      text: Transformá tu Hogar con nuestras Soluciones en EPS de Alta Calidad
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
