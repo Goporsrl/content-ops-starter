@@ -15,9 +15,8 @@ sections:
       soluciones de decoración y aislamiento térmico para transformar tus
       espacios
     text: >
-      Confort, estilo y eficiencia en un solo producto. Descubrí nuestras
-      soluciones de decoración y aislamiento térmico para transformar tus
-      espacios
+      Placas de EPS, Cielorrasos, Molduras y más para hogares confortables y
+      modernos. ¡Instalación rápida y fácil!
     actions:
       - label: Ver Nuestros Productos
         altText: ''
